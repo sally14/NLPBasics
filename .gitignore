@@ -64,7 +64,6 @@ Thumbs.db
 *.synctex.gz
 *.run.xml
 *.toc
-*.tex
 *.bib
 *.lof
 
